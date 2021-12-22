@@ -12,6 +12,7 @@ function StartScreen() {
   const handleDragStart = () => {
     setIsDragging(true);
   };
+
   const handleDragEnd = () => {
     setIsDragging(false);
   };

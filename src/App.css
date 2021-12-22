@@ -34,7 +34,7 @@
 }
 
 .gameboard-square:hover {
-  transition: transform background-color 1s;
+  transition: transform background-color;
   transform: scale(1.1);
   background-color: white;
 }
